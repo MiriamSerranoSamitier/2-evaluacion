@@ -1,0 +1,5 @@
+//Mi primer probrama en C++
+#include<stdio.h>
+main(){
+	printf("Hola mundo");	
+}
